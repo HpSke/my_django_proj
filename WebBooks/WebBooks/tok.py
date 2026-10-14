@@ -1,1 +1,1 @@
-token = 'xtplrlvhsytchqsk'
+token = ''
